@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="17" passed="17" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-18T16:22:15 PST" name="Default suite" finished-at="2023-05-18T16:22:51 PST" duration-ms="35352">
+    <groups>
+    </groups>
+    <test started-at="2023-05-18T16:22:15 PST" name="Default test" finished-at="2023-05-18T16:22:51 PST" duration-ms="35352">
+      <class name="test_android_suite.TestCase_BankAppDemo">
+        <test-method signature="BAD_01_testStep01()[pri:0, instance:test_android_suite.TestCase_BankAppDemo@62ddd21b]" started-at="2023-05-18T16:22:15 PST" name="BAD_01_testStep01" finished-at="2023-05-18T16:22:24 PST" duration-ms="8818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BAD_01_testStep01 -->
+        <test-method signature="BAD_01_testStep02()[pri:1, instance:test_android_suite.TestCase_BankAppDemo@62ddd21b]" started-at="2023-05-18T16:22:24 PST" name="BAD_01_testStep02" finished-at="2023-05-18T16:22:31 PST" duration-ms="7312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BAD_01_testStep02 -->
+        <test-method signature="BAD_01_testStep03()[pri:2, instance:test_android_suite.TestCase_BankAppDemo@62ddd21b]" started-at="2023-05-18T16:22:31 PST" name="BAD_01_testStep03" finished-at="2023-05-18T16:22:34 PST" duration-ms="2946" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BAD_01_testStep03 -->
+        <test-method signature="BAD_01_testStep04()[pri:3, instance:test_android_suite.TestCase_BankAppDemo@62ddd21b]" started-at="2023-05-18T16:22:34 PST" name="BAD_01_testStep04" finished-at="2023-05-18T16:22:36 PST" duration-ms="1419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BAD_01_testStep04 -->
+        <test-method signature="BAD_02_testStep01()[pri:4, instance:test_android_suite.TestCase_BankAppDemo@62ddd21b]" started-at="2023-05-18T16:22:36 PST" name="BAD_02_testStep01" finished-at="2023-05-18T16:22:36 PST" duration-ms="177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BAD_02_testStep01 -->
+        <test-method signature="BAD_02_testStep02()[pri:5, instance:test_android_suite.TestCase_BankAppDemo@62ddd21b]" started-at="2023-05-18T16:22:36 PST" name="BAD_02_testStep02" finished-at="2023-05-18T16:22:36 PST" duration-ms="165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BAD_02_testStep02 -->
+        <test-method signature="BAD_02_testStep03()[pri:6, instance:test_android_suite.TestCase_BankAppDemo@62ddd21b]" started-at="2023-05-18T16:22:36 PST" name="BAD_02_testStep03" finished-at="2023-05-18T16:22:37 PST" duration-ms="305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BAD_02_testStep03 -->
+        <test-method signature="BAD_02_testStep04()[pri:7, instance:test_android_suite.TestCase_BankAppDemo@62ddd21b]" started-at="2023-05-18T16:22:37 PST" name="BAD_02_testStep04" finished-at="2023-05-18T16:22:42 PST" duration-ms="5279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BAD_02_testStep04 -->
+        <test-method signature="BAD_02_testStep05()[pri:8, instance:test_android_suite.TestCase_BankAppDemo@62ddd21b]" started-at="2023-05-18T16:22:42 PST" name="BAD_02_testStep05" finished-at="2023-05-18T16:22:43 PST" duration-ms="785" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BAD_02_testStep05 -->
+        <test-method signature="BAD_03_testStep01()[pri:9, instance:test_android_suite.TestCase_BankAppDemo@62ddd21b]" started-at="2023-05-18T16:22:43 PST" name="BAD_03_testStep01" finished-at="2023-05-18T16:22:43 PST" duration-ms="210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BAD_03_testStep01 -->
+        <test-method signature="BAD_03_testStep02()[pri:10, instance:test_android_suite.TestCase_BankAppDemo@62ddd21b]" started-at="2023-05-18T16:22:43 PST" name="BAD_03_testStep02" finished-at="2023-05-18T16:22:43 PST" duration-ms="221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BAD_03_testStep02 -->
+        <test-method signature="BAD_03_testStep03()[pri:11, instance:test_android_suite.TestCase_BankAppDemo@62ddd21b]" started-at="2023-05-18T16:22:43 PST" name="BAD_03_testStep03" finished-at="2023-05-18T16:22:43 PST" duration-ms="319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BAD_03_testStep03 -->
+        <test-method signature="BAD_03_testStep04()[pri:12, instance:test_android_suite.TestCase_BankAppDemo@62ddd21b]" started-at="2023-05-18T16:22:43 PST" name="BAD_03_testStep04" finished-at="2023-05-18T16:22:44 PST" duration-ms="1082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BAD_03_testStep04 -->
+        <test-method signature="BAD_03_testStep05()[pri:13, instance:test_android_suite.TestCase_BankAppDemo@62ddd21b]" started-at="2023-05-18T16:22:44 PST" name="BAD_03_testStep05" finished-at="2023-05-18T16:22:45 PST" duration-ms="735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BAD_03_testStep05 -->
+        <test-method signature="BAD_03_testStep06()[pri:15, instance:test_android_suite.TestCase_BankAppDemo@62ddd21b]" started-at="2023-05-18T16:22:45 PST" name="BAD_03_testStep06" finished-at="2023-05-18T16:22:49 PST" duration-ms="3384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BAD_03_testStep06 -->
+        <test-method signature="BAD_03_testStep07()[pri:16, instance:test_android_suite.TestCase_BankAppDemo@62ddd21b]" started-at="2023-05-18T16:22:49 PST" name="BAD_03_testStep07" finished-at="2023-05-18T16:22:50 PST" duration-ms="1523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BAD_03_testStep07 -->
+        <test-method signature="BAD_03_testStep08()[pri:17, instance:test_android_suite.TestCase_BankAppDemo@62ddd21b]" started-at="2023-05-18T16:22:50 PST" name="BAD_03_testStep08" finished-at="2023-05-18T16:22:51 PST" duration-ms="545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BAD_03_testStep08 -->
+      </class> <!-- test_android_suite.TestCase_BankAppDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
